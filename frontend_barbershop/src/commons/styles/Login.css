@@ -1,0 +1,65 @@
+.containerLogin {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-items: center;
+    font-size: 22px;
+    max-width: 500px;
+    min-height: 672px;
+    margin: 0 auto;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(165, 139, 120);
+}
+
+.containerLogin>input {
+    margin-top: 300px;
+}
+
+input {
+    margin: 0 auto;
+    background-color: black;
+    opacity: 50%;
+    color: white;
+    margin-top: 10px;
+    width: 300px;
+    height: 59px;
+    font-size: 22px;
+    margin-bottom: 14px;
+    max-width: 527px;
+    padding: 0 10%;
+}
+
+.pass-wrapper {
+    position: relative;
+    display: flex;
+    margin-bottom: 14px;
+}
+
+i {
+    position: absolute;
+    top: 38%;
+    right: 16%;
+}
+
+i:hover {
+    color: #00fcb6;
+    cursor: pointer;
+}
+
+input[type=submit] {
+    background-color: rgb(164, 206, 209);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: rgb(79, 79, 173);
+  }
+
+  .buttonHolder{ text-align: center; }

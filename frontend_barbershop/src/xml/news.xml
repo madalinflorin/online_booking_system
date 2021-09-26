@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="ACSPIXMT.xsl" ?>
+
+<newsRoot>
+
+    <ro>
+    <news>
+        
+        <id>1</id>
+
+        <header>Geluri de ras transparente</header>
+
+        <description>Gelurile de ras transparente va ajuta sa facilitati alunecarea aparatului de ras si sa aveti o precizie mult mai buna 🌟
+        Gelul Depot No406 🌿 este ideal pentru persoanele ce doresc sa lucreze pe detalii cum ar fi conturul barbii sau al mustatii. 
+        Acesta are la baza un complex botatic de plante ce au grija sa mentina pielea hidratata si ingrijita.</description>
+
+        <image>https://thebarbershop.ro/image/cache/catalog/Depot/Gel-de-Ras-Trasparent-Depot-No406-Depot-638x638.webp</image>
+
+
+
+    </news>
+
+
+    <news>
+        
+        <id>2</id>
+
+        <header>Balsamuri de barba</header>
+
+        <description>Sunt balsamurile de barba atat de benefice pe cat se spune? Poate ca ai auzit toate discutiile despre balsamurile de barba, insa nu stii daca acestea iti vor ajuta de fapt barba? 🧔
+        In noul articol de pe blog afli de la specialistii nostri care sunt beneficiile pe care acest produs le ofera.
+        </description>
+
+        <image>https://external.fcnd1-1.fna.fbcdn.net/safe_image.php?d=AQFqoJY2bzhjf8Mi&amp;w=500&amp;h=261&amp;url=https%3A%2F%2Fthebarbershop.ro%2Fimage%2Fcache%2Fcatalog%2FBlog%2Fbalsamul-de-barba-02-1200x500-600x315h.png&amp;cfs=1&amp;ext=jpg&amp;ccb=3-5&amp;_nc_hash=AQHK-GwUl8Jy5_6y</image>
+
+    </news>
+
+    <news>
+        
+        <id>3</id>
+
+        <header>Fixative de par</header>
+
+        <description>♟️Fixativul de par este unul dintre cele mai populare si indenspensabile produse de styling, scopul fiind acela de a mentine forma finala a coafurii, conform puterii sale de fixare.
+        🌟Noberu of Sweden Strong Hairspray ofera frizurii o fixare puternica si un luciu discret, aporape mat, similar cu aspectul natural al firului de par.
+        Il gasiti disponibil in shop atat in varianta de 100 ml cat si in cea de 250 ml.</description>
+
+        <image>https://www.hairbeautyfactory.com/2160-thickbox_default/noberu-hairspray-strong-300-ml.jpg</image>
+
+    </news>
+
+    </ro>
+
+    <en>
+
+    <news>
+        
+        <id>1</id>
+
+        <header>Transparent shaving gels</header>
+
+        <description>Transparent shaving gels will help make the razor slippery and have much better accuracy 🌟
+        Depot Gel No406 🌿 is ideal for people who want to work on details such as the contour of the chin or mustache.
+        It is based on a botanical complex of plants that take care to keep the skin hydrated and neat.</description>
+
+        <image>https://thebarbershop.ro/image/cache/catalog/Depot/Gel-de-Ras-Trasparent-Depot-No406-Depot-638x638.webp</image>
+
+
+
+    </news>
+
+
+    <news>
+        
+        <id>2</id>
+
+        <header>Beard conditioners</header>
+
+        <description>Are beard conditioners as beneficial as they say? You may have heard all the talk about beard conditioners, but you don't know if they will actually help your beard? 🧔
+        In the new blog article you can find out from our specialists what are the benefits that this product offers.</description>
+
+        <image>https://external.fcnd1-1.fna.fbcdn.net/safe_image.php?d=AQFqoJY2bzhjf8Mi&amp;w=500&amp;h=261&amp;url=https%3A%2F%2Fthebarbershop.ro%2Fimage%2Fcache%2Fcatalog%2FBlog%2Fbalsamul-de-barba-02-1200x500-600x315h.png&amp;cfs=1&amp;ext=jpg&amp;ccb=3-5&amp;_nc_hash=AQHK-GwUl8Jy5_6y</image>
+
+    </news>
+
+    <news>
+        
+        <id>3</id>
+
+        <header>Hair fixative</header>
+
+        <description>♟️Hair fixative is one of the most popular and indispensable hair styling products, the purpose being to maintain the final shape of the hairstyle, according to its fixing power.
+        🌟Noberu of Sweden Strong Hairspray offers the hairstyle a strong fixation and a discreet shine, slightly matte, similar to the natural appearance of the hair.
+        You can find it available in the shop in both 100 ml and 250 ml versions.</description>
+
+        <image>https://www.hairbeautyfactory.com/2160-thickbox_default/noberu-hairspray-strong-300-ml.jpg</image>
+
+    </news>
+
+
+    </en>
+
+
+</newsRoot>

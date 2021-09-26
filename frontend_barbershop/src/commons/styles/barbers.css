@@ -1,0 +1,36 @@
+.imgHolder {
+    background-color: rgb(124, 88, 61);
+    justify-content: center;
+    
+}
+.imgHolder h2 {
+    position: absolute;
+    right: 600px;
+    top: 725px;
+}
+
+.imgHolder img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+.prezentareaEchipei{
+    background-color:rgb(164, 206, 209);
+}
+
+table {
+    border-collapse: collapse;
+}
+  
+td, th {
+    border: 1px;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+td h2 {
+    text-align: center;
+}
